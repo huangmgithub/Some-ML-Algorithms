@@ -1,1 +1,1 @@
-# SimpleUse-LogisticRegression
+# Some ML Algorithms
