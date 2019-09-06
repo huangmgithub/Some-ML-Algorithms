@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 + ### KNN
 + ### Naive Bayes
 + ### Logistic Regression
@@ -21,3 +22,6 @@
 	![参数]((K-means.png))
 	
 	参考博客：https://blog.csdn.net/loveliuzz/article/details/78783773
+=======
+# Some ML Algorithms
+>>>>>>> 5751cb259433c6214a953a20cd033ee06b31aa83
